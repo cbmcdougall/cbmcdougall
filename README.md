@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, i'm Calum 👋
+
+-------
+
+#### My coding background:
+
+- I graduated from the University of St Andrews in 2020 with a first-class MPhys in Astrophysics
+- During university, I gained experience working with numerical simulations and data analysis in fortran90 and python.
+- I'm now currently training as a full-stack software developer at futureproof
 
 <!--
 **cbmcdougall/cbmcdougall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
