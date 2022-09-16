@@ -37,6 +37,8 @@
 
 I also like writing small scripts (e.g. batch files, shell scripts, autohotkeys scripts) on my personal PC to carry out certain tasks for convenience.
 
+I have an alt account on Github [here](https://github.com/Fellshadow) that I use for personal side-projects that for privacy reasons I'd rather not have my real name tied to.
+
 -------
 
 ### A Little About Me
