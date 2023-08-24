@@ -54,7 +54,6 @@ I have a second account on Github [here](https://github.com/Fellshadow) which I 
 
 ### A Little About Me
 
-- Pronouns: He/Him
 - Hobbies: 
   - 🎮 Playing videogames (mainly RPGs and roguelites/roguelikes)
   - 🎼 Listening to / playing music (I played xylophone and tenor horn in high school, currently electric guitar 🎸)
