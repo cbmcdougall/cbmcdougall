@@ -39,7 +39,7 @@
         <td>Docker</td>
         <td>Podman</td>
         <td>Git</td>
-        <td>Linux</td>
+        <td>AutoHotkey</td>
         <td>Excel / Google Sheets</td>
         <td>Agile</td>
     </tr>
