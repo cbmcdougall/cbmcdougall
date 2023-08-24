@@ -10,40 +10,37 @@
 - I am now employed by Futureproof on a 2-year placement with one of their partner companies.
 
 <table>
-    <tr><th colspan="5">Languages and Technologies</th></tr>
+    <tr><th colspan="6">Languages and Technologies</th></tr>
     <tr>
         <td>C# / .NET</td>
         <td>Bash/Shell Script</td>
         <td>JavaScript</td>
         <td>HTML</td>
         <td>CSS</td>
+        <td>Lua</td>
     </tr>
     <tr>
-        <td>Lua</td>
         <td>Fortran90</td>
         <td>Python</td>
         <td>Mathematica</td>
         <td>LaTeX</td>
+        <td>PostGreSQL</td>
+        <td>MongoDB</td>
     </tr>
     <tr>
         <td>Django</td>
         <td>Flask</td>
-        <td>PostGreSQL</td>
-        <td>MongoDB</td>
         <td>React</td>
-    </tr>
-    <tr>
         <td>Jest</td>
-        <td>Docker</td>
-        <td>Podman</td>
         <td>Heroku</td>
         <td>Netlify</td>
     </tr>
     <tr>
+        <td>Docker</td>
+        <td>Podman</td>
         <td>Git</td>
         <td>Linux</td>
         <td>Excel / Google Sheets</td>
-        <td></td>
         <td></td>
     </tr>
 </table>
