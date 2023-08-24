@@ -10,7 +10,7 @@
 - I am now employed by La Fosse Academy (formerly Futreproof) on a 2-year placement with one of their partner companies.
 
 <table>
-    <tr><th colspan="6">Languages and Technologies</th></tr>
+    <tr><th colspan="6">Technical Skills</th></tr>
     <tr>
         <td>C#</td>
         <td>Bash/Shell Script</td>
@@ -41,7 +41,7 @@
         <td>Git</td>
         <td>Linux</td>
         <td>Excel / Google Sheets</td>
-        <td></td>
+        <td>Agile</td>
     </tr>
 </table>
 
