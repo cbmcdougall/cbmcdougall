@@ -10,17 +10,20 @@
 - I am now employed by Futureproof on a 2-year placement with one of their partner companies.
 
 <table>
-    <tr><th colspan="9">Known Languages and Technologies</th></tr>
+    <tr><th colspan="5">Languages and Technologies</th></tr>
     <tr>
+        <td>C# / .NET</td>
+        <td>Bash/Shell Script</td>
+        <td>JavaScript</td>
+        <td>HTML</td>
+        <td>CSS</td>
+    </tr>
+    <tr>
+        <td>Lua</td>
         <td>Fortran90</td>
         <td>Python</td>
         <td>Mathematica</td>
         <td>LaTeX</td>
-        <td>JavaScript</td>
-        <td>HTML</td>
-        <td>CSS</td>
-        <td>Lua</td>
-        <td></td>
     </tr>
     <tr>
         <td>Django</td>
@@ -28,16 +31,27 @@
         <td>PostGreSQL</td>
         <td>MongoDB</td>
         <td>React</td>
+    </tr>
+    <tr>
         <td>Jest</td>
         <td>Docker</td>
+        <td>Podman</td>
         <td>Heroku</td>
         <td>Netlify</td>
     </tr>
+    <tr>
+        <td>Git</td>
+        <td>Linux</td>
+        <td>Excel / Google Sheets</td>
+        <td></td>
+        <td></td>
+    </tr>
 </table>
 
-I also like writing small scripts (e.g. batch files, shell scripts, autohotkeys scripts) on my personal PC to carry out certain tasks for convenience.
+I like writing small scripts (e.g. batch files, shell scripts, autohotkeys scripts) on my personal PC to carry out certain tasks for convenience.
+I also sometimes like to make spreadsheets for tracking various things like certain tasks/achievements or resources I'm grinding for in a videogame.
 
-I have an alt account on Github [here](https://github.com/Fellshadow) that I use for personal side-projects that for privacy reasons I'd rather not have my real name tied to.
+I have a second account on Github [here](https://github.com/Fellshadow) which I use for personal side-projects that I'd rather not have my real name tied to (for privacy reasons).
 
 -------
 
@@ -47,7 +61,6 @@ I have an alt account on Github [here](https://github.com/Fellshadow) that I use
 - Hobbies: 
   - 🎮 Playing videogames (mainly RPGs and roguelites/roguelikes)
   - 🎼 Listening to / playing music (I played xylophone and tenor horn in high school, currently electric guitar 🎸)
-  - ✍️ Drawing *very* occasionally
 - I am a huge Tolkien nerd! 🧙‍♂️
 
 ------
