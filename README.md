@@ -12,7 +12,7 @@
 <table>
     <tr><th colspan="6">Languages and Technologies</th></tr>
     <tr>
-        <td>C# / .NET</td>
+        <td>C#</td>
         <td>Bash/Shell Script</td>
         <td>JavaScript</td>
         <td>HTML</td>
