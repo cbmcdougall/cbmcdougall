@@ -6,8 +6,8 @@
 
 - I graduated from the University of St Andrews in June 2020 with a first-class MPhys in Astrophysics.
 - During university, I gained experience working with numerical simulations and data analysis in Fortran90, Python, and Mathematica.
-- I undertook a 13-week training course in full-stack software development at Futureproof from September 2021 to December 2021.
-- I am now employed by Futureproof on a 2-year placement with one of their partner companies.
+- I undertook a 13-week training course in full-stack software development at La Fosse Academy (formerly Futreproof) from September 2021 to December 2021.
+- I am now employed by La Fosse Academy (formerly Futreproof) on a 2-year placement with one of their partner companies.
 
 <table>
     <tr><th colspan="6">Languages and Technologies</th></tr>
