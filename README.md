@@ -24,7 +24,7 @@
         <td>Python</td>
         <td>Mathematica</td>
         <td>LaTeX</td>
-        <td>PostGreSQL</td>
+        <td>PostgreSQL</td>
         <td>MongoDB</td>
     </tr>
     <tr>
